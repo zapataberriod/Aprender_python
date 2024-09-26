@@ -1,0 +1,85 @@
+¿Qué es Python?
+a) Un lenguaje de programación interpretado y de propósito general, fácil de leer y aprender.
+b) Un sistema operativo para desarrollar aplicaciones móviles.
+c) Un software de edición de imágenes.
+d) Un lenguaje de programación únicamente para desarrollo web.
+¿Cuál es el sitio oficial desde donde puedes descargar Python?
+a) www.python.org
+b) www.downloadpython.com
+c) www.programacion.org
+d) www.pythoncode.com
+¿Cuál es el propósito de la función print() en Python?
+a) Declarar variables
+b) Mostrar mensajes o datos en la consola
+c) Crear un archivo de texto
+d) Solicitar información del usuario
+¿Cuál es la sintaxis correcta para declarar una variable en Python?
+a) var int x = 5;
+b) x <- 5
+c) x = 5
+d) declarar x = 5
+¿Cómo puedes realizar una asignación múltiple en Python?
+a) x, y = 5, 10
+b) x, y = (5; 10)
+c) x = 5, y = 10
+d) entero x = 5, y = 10
+¿Qué función utiliza para convertir una cadena en un número entero en Python?
+a) cadena()
+b) int()
+c) flotar()
+d) entrada()
+¿Cuál de las siguientes opciones es una conversión válida en Python?
+a) int('3.14')
+b) cadena(3.14)
+c) float('texto')
+d) int(Verdadero)
+¿Cuál es la función adecuada para obtener datos del usuario en Python?
+a) entrada()
+b) imprimir()
+c) salida()
+miedo()
+¿Cuál es el resultado de la siguiente operación matemática en Python?
+
+importar resultado matemático = math.sqrt(16)
+imprimir(resultado)
+
+a) 2.0
+b) 4.0
+c) 8.0
+d) Error
+¿Cuál de los siguientes métodos convierte una cadena a minúsculas?
+a) cadena.lower()
+b) cadena.capitalize()
+c) cadena.casefold()
+d) cadena.upper()
+¿Cuál es el resultado del siguiente código de manipulación de cadenas?
+texto = "Hola Mundo"
+print(texto[1:5])
+
+a) ola
+b) Hola
+c) ola M
+d) ola
+Respuestas:
+
+a
+
+a
+
+b
+
+d
+
+a
+
+b
+
+a
+
+a
+
+b
+
+a
+
+d
